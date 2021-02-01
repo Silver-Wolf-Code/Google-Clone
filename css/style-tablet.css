@@ -1,0 +1,34 @@
+*{
+  /* outline: 1px solid red; */
+}
+.header__figure--mod{
+  display: none;
+}
+.header__text-menu--mod{
+  display: none;
+}
+.header__text-menu--mod-two{
+  display: initial;
+}
+
+.header__nav{
+  display: flex;
+  justify-content: flex-end;
+  align-items: none;
+  padding-top: 10px;
+}
+.header__one{
+  width: 12.5rem;
+  margin-right: 5px;
+}
+.header__text-menu{
+  text-transform: initial;
+  font-size: 1.3rem;
+  font-weight: 400;
+}
+.header__text-menu:hover{
+  border-bottom: 1px solid #575656;
+}
+.header__two{
+  width: 10rem;
+}
